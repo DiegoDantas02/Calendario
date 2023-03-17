@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalhando com a seleção do mês", "Trabalhando com a seleção do mês\Trabalhando com a seleção do mês.csproj", "{70A9C009-675B-415E-AEE7-07E8E4A0801A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A9C009-675B-415E-AEE7-07E8E4A0801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A9C009-675B-415E-AEE7-07E8E4A0801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A9C009-675B-415E-AEE7-07E8E4A0801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A9C009-675B-415E-AEE7-07E8E4A0801A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DB4F14-501D-49AC-8512-9A42A01E2E0B}
+	EndGlobalSection
+EndGlobal
